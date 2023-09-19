@@ -23,7 +23,7 @@
   "license": "GPL-3.0-only",
   "dependencies": {
     "mime": "^3.0.0",
-    "webpack-dev-server": "^4.8.1"
+    "webpack-dev-server": "^4.15.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.17.10",
