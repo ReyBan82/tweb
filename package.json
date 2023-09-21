@@ -42,7 +42,7 @@
     "@types/chrome": "0.0.183",
     "@types/jest": "^28.1.0",
     "@typescript-eslint/eslint-plugin": "^5.32.0",
-    "@typescript-eslint/parser": "^5.32.0",
+    "@typescript-eslint/parser": "^5.62.0",
     "babel-loader": "^8.2.5",
     "babel-preset-es2015": "^6.24.1",
     "big-integer": "^1.6.51",
