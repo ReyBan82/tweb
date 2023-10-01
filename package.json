@@ -64,7 +64,7 @@
     "npm": "^8.8.0",
     "on-build-webpack": "^0.1.0",
     "pako": "^2.0.4",
-    "postcss": "^8.4.13",
+    "postcss": "^8.4.31",
     "postcss-import": "^14.1.0",
     "postcss-loader": "^6.2.1",
     "postcss-preset-env": "^7.5.0",
